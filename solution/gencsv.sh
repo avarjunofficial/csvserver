@@ -15,4 +15,6 @@ for ((i = 0; i <= $N; i++)); do
        	echo "$i, ${RANDOM}">> $INPUTFILE
 done
 
+chmod o+r $INPUTFILE
+
 
