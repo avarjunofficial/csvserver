@@ -1,6 +1,0 @@
-#!/bin/bash
-count=4
-for i  in 1.."${count}"
-do
-    echo -e "ewe"
-done
